@@ -1,5 +1,14 @@
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://github.com/hemantkumar980)
+<h1 align="center">Hello World! 👋 I'm Riya</h1>
+<h3 align="center">A software developer with a zest for turning ideas into code</h3>
+<img align="right" alt="Coding" width="400" src="https://cutt.ly/XN4CUFE" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantkumar980&label=Profile%20views&color=0e75b6&style=flat" alt="hemantkumar980" /> </p>
+
+<p align="left"> <a href="https://twitter.com/hemantkumar980" target="blank"><img src="https://img.shields.io/twitter/follow/hemantkumar980?logo=twitter&style=for-the-badge" alt="hemantkumar980" /></a> </p>
+
 # 💫 About Me:
-**Hello World! 👋 I'm Riya, a software developer with a zest for turning ideas into code.**<br><br>🎓 I am Information Systems Engineering Graduate Student at Northeastern University.<br>🌱 Constantly learning and experimenting with new technologies.<br>📫 Connect with me on LinkedIn www.linkedin.com/in/riyarajeshpatil<br>📧 Email me at patil.riy@northeastern.edu<br><br>Embracing the elegance of code, I aspire to create solutions that resonate with efficiency and creativity. Together, let's innovate for a brighter tomorrow!
+<br>🎓 I am Information Systems Engineering Graduate Student at Northeastern University.<br>🌱 Constantly learning and experimenting with new technologies.<br>📫 Connect with me on LinkedIn www.linkedin.com/in/riyarajeshpatil<br>📧 Email me at patil.riy@northeastern.edu<br><br>Embracing the elegance of code, I aspire to create solutions that resonate with efficiency and creativity. Together, let's innovate for a brighter tomorrow!
 
 
 ## 🌐 Socials:
