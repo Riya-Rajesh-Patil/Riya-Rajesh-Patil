@@ -1,4 +1,4 @@
-(pictures/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
+![MasterHead](pictures/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
 <h1 align="center">Hello World! 👋 I'm Riya</h1>
 <h3 align="center">A software developer with a zest for turning ideas into code</h3>
 <img align="right" alt="Coding" width="400" src="236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" />
