@@ -2,6 +2,7 @@
 <h1 align="center">Hello World! 👋 I'm Riya</h1>
 <h3 align="center">A software developer with a zest for turning ideas into code</h3>
 <img align="right" alt="Coding" width="400" src="236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" />
+<img align="right" alt="Coding" width="400" src="pictures/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
 
 # 💫 About Me:
 <br>🎓 I am Information Systems Engineering Graduate Student at Northeastern University.<br>🌱 Constantly learning and experimenting with new technologies.<br>📫 Connect with me on LinkedIn www.linkedin.com/in/riyarajeshpatil<br>📧 Email me at patil.riy@northeastern.edu<br><br>Embracing the elegance of code, I aspire to create solutions that resonate with efficiency and creativity. Together, let's innovate for a brighter tomorrow!
